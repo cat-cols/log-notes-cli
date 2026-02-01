@@ -48,7 +48,6 @@ You can customize `log` by setting environment variables in your `.zshrc`. If no
 | `LOG_EDITOR` | `Windsurf` | The application used to open logs on macOS.
 | `LOG_DIR` | `./_log` | The directory where logs are saved relative to your current path.
 | `EDITOR` | `nano` | Fallback editor used if you are not on macOS.
-|
 
 **Example customization:**
 
