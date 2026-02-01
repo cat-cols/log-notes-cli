@@ -29,12 +29,12 @@ Context-switching is the enemy of productivity. I built `log` because I wanted t
 
 2. **Add to your `.zshrc`:**
    ```bash
-echo "source ~/.log-notes-cli/log.sh" >> ~/.zshrc
+   echo "source ~/.log-notes-cli/log.sh" >> ~/.zshrc
    ```
 
 3. **Reload your shell:**
    ```bash
-source ~/.zshrc
+   source ~/.zshrc
    ```
 
 ---
@@ -46,14 +46,9 @@ You can customize `log` by setting environment variables in your `.zshrc`. If no
 | Variable | Default Value | Description |
 | --- | --- | --- |
 | `LOG_EDITOR` | `Windsurf` | The application used to open logs on macOS.
-
- |
 | `LOG_DIR` | `./_log` | The directory where logs are saved relative to your current path.
-
- |
-| `EDITOR` | `nano` | Fallback editor used if you are not on macOS. 
-
- |
+| `EDITOR` | `nano` | Fallback editor used if you are not on macOS.
+|
 
 **Example customization:**
 
