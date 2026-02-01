@@ -1,0 +1,6 @@
+# Ignore the generated logs directory
+_log/
+_fixes/
+
+# OS X metadata
+.DS_Store
