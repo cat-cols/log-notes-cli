@@ -1,4 +1,4 @@
-## 👨‍💻 Author **Brandon Hardison** [LinkedIn](https://www.linkedin.com/in/brandon-hardison-14003293/) Let's connect!
+👨‍💻 Author: **Brandon Hardison** [LinkedIn](https://www.linkedin.com/in/brandon-hardison-14003293/)
 
 # log-notes-cli ⚡️
 
