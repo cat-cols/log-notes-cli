@@ -1,3 +1,6 @@
+## 👨‍💻 Author
+**Brandon Hardison** Let's connect! [LinkedIn](https://www.linkedin.com/in/brandon-hardison-14003293/)
+
 # log-notes-cli ⚡️
 
 A minimalist, workspace-aware Zsh utility for generating structured Markdown documentation on the fly.
